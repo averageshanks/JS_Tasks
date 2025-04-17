@@ -64,7 +64,6 @@ This repository contains a series of JavaScript-based programming tasks designed
 ## 📦 Installation
 
 ```bash
-git clone <repo>
-cd <project name>
+git clone (https://github.com/averageshanks/JS_Tasks.git)
 npm install
-node <project>
+node <each_project_name>
